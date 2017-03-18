@@ -1,0 +1,12 @@
+//
+//  ProductionConfig.xcconfig
+//  cosmos
+//
+//  Created by Tue Nguyen on 4/15/16.
+//  Copyright © 2016 Savvycom. All rights reserved.
+//
+#include "Pods/Target Support Files/Pods-cosmos/Pods-cosmos.production.xcconfig"
+
+OTHER_SWIFT_FLAGS = $(inherited) "-D" "PROD"
+PRODUCT_BUNDLE_IDENTIFIER = com.hieutt.cosmos
+APP_DISPLAY_NAME=Demo App

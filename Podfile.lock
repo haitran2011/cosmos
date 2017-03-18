@@ -1,0 +1,106 @@
+PODS:
+  - ActiveLabel (0.7.1)
+  - Alamofire (4.0.0)
+  - Bolts-Swift (1.3.0)
+  - Crashlytics (3.8.3):
+    - Fabric (~> 1.6.3)
+  - DisplaySwitcher (1.0.1)
+  - DynamicColor (3.1.0)
+  - Fabric (1.6.11)
+  - Firebase/AdMob (3.13.0):
+    - Firebase/Core
+    - Google-Mobile-Ads-SDK (= 7.17.0)
+  - Firebase/Core (3.13.0):
+    - FirebaseAnalytics (= 3.7.0)
+    - FirebaseCore (= 3.5.0)
+  - FirebaseAnalytics (3.7.0):
+    - FirebaseCore (~> 3.5)
+    - FirebaseInstanceID (~> 1.0)
+    - GoogleToolboxForMac/NSData+zlib (~> 2.1)
+  - FirebaseCore (3.5.0):
+    - GoogleToolboxForMac/NSData+zlib (~> 2.1)
+  - FirebaseInstanceID (1.0.9)
+  - Google-Mobile-Ads-SDK (7.17.0)
+  - GoogleToolboxForMac/Defines (2.1.1)
+  - GoogleToolboxForMac/NSData+zlib (2.1.1):
+    - GoogleToolboxForMac/Defines (= 2.1.1)
+  - KeychainAccess (3.0.0)
+  - Kingfisher (3.4.0)
+  - Localize-Swift (1.7.1)
+  - MobilePlayer (1.2.0)
+  - ObjectMapper (2.0.0)
+  - PKHUD (4.2.0)
+  - Realm (2.2.0):
+    - Realm/Headers (= 2.2.0)
+  - Realm/Headers (2.2.0)
+  - RealmSwift (2.2.0):
+    - Realm (= 2.2.0)
+  - SnapKit (3.0.0)
+  - SwiftDate (4.0.11)
+  - TBEmptyDataSet (2.4)
+  - XCGLogger (4.0.0):
+    - XCGLogger/Core (= 4.0.0)
+  - XCGLogger/Core (4.0.0)
+
+DEPENDENCIES:
+  - ActiveLabel
+  - Alamofire (from `https://github.com/tue-savvy/Alamofire.git`, branch `ios8`)
+  - Bolts-Swift
+  - Crashlytics
+  - DisplaySwitcher
+  - DynamicColor
+  - Fabric
+  - Firebase/AdMob
+  - Firebase/Core
+  - KeychainAccess
+  - Kingfisher
+  - Localize-Swift
+  - MobilePlayer
+  - ObjectMapper
+  - PKHUD (~> 4.0)
+  - RealmSwift
+  - SnapKit
+  - SwiftDate
+  - TBEmptyDataSet
+  - XCGLogger (~> 4.0.0)
+
+EXTERNAL SOURCES:
+  Alamofire:
+    :branch: ios8
+    :git: https://github.com/tue-savvy/Alamofire.git
+
+CHECKOUT OPTIONS:
+  Alamofire:
+    :commit: a0608c2db96c7d98d066f8fd72c5f19b89339fc2
+    :git: https://github.com/tue-savvy/Alamofire.git
+
+SPEC CHECKSUMS:
+  ActiveLabel: 68625f22775f51c31bb691ca8de20f1e5a3bc825
+  Alamofire: 29102f79068e4769ded8aec795a792f11da018a6
+  Bolts-Swift: fa98d1b59fc1acea9b21a21306dcdca1c85e3737
+  Crashlytics: 2b6dbe138a42395577cfa73dfa1aa7248cadf39e
+  DisplaySwitcher: 5f725284c28cdf22ea7ba2eee8e8f7e7cb9cdf87
+  DynamicColor: 4dec283a881f7f9d9f3bc88fb5f306724242575f
+  Fabric: 5911403591946b8228ab1c51d98f1d7137e863c6
+  Firebase: 5bc34d7b5ff5792e3386c8b28dc6265deeab0da4
+  FirebaseAnalytics: 0d1b7d81d5021155be37702a94ba1ec16d45365d
+  FirebaseCore: 1c0a13bf59bb95cdd19577252499f0ec6a03e999
+  FirebaseInstanceID: 2d0518b1378fe9d685ef40cbdd63d2fdc1125339
+  Google-Mobile-Ads-SDK: a8bf4211624999b73e4184be516f94770b139525
+  GoogleToolboxForMac: 8e329f1b599f2512c6b10676d45736bcc2cbbeb0
+  KeychainAccess: 412bf2650d9aebfc8135a58103b90ec38caad7f8
+  Kingfisher: 5690cfb3d1bddf3a98d679a3a34d0b7294974ed2
+  Localize-Swift: 6cabc1087c0e910e77bfa87c2ed3f65c80c0b2df
+  MobilePlayer: '069b13482499f14c25b6ce53f63a91e17975b073'
+  ObjectMapper: aed2570edabbd3c9b26c939e1cabdb6558f933e0
+  PKHUD: 48af884cf00c2213b0313b739d914e6cab1c0f5e
+  Realm: d95b8fb34c83f1e764b66d319277a62c2b6e4bf5
+  RealmSwift: a4fa52d06e946a32ec746b3388374f742e6b8731
+  SnapKit: 98af0a4e9369d3c58f758967518081dbdc7eb1d9
+  SwiftDate: a36d5ce7c86bed3ed92b583ccbf15045f374ac65
+  TBEmptyDataSet: 3ab5f29f071792350ac57060755d43ea32fddce9
+  XCGLogger: 38063ea89b4c8b23232d18efd2e12eb0005f3ea4
+
+PODFILE CHECKSUM: 8024f60f315c3a5a12bf52a8f88fe555948f8c5f
+
+COCOAPODS: 1.2.0
